@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "90aTQkKwxLJu+bQqfxLBENEwhLhK/LprdiDsyYw0uQc=",
+  "Source": "ArticleApp",
+  "BasePath": "_content/ArticleApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
